@@ -1,0 +1,7 @@
+
+
+
+void progeam()
+{
+    int x;
+}
